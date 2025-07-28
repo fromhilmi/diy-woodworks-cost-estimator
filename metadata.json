@@ -1,0 +1,5 @@
+{
+  "name": "DIY Woodworks Cost Estimator",
+  "description": "A web application to calculate the costs for woodworking projects, including materials, labor, overhead, and wood cuts. It allows for dynamic row management, real-time calculations, and PDF export/printing.",
+  "requestFramePermissions": []
+}
